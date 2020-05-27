@@ -5,6 +5,8 @@ class ArticlesController < ApplicationController
     @articles = Article.all
   end
 
+  #hogehode
+
   def show
   end
 
